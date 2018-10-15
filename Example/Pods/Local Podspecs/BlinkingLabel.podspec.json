@@ -1,9 +1,9 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/woshiwwy16@126.com/BlinkingLabel",
+  "summary": "Just Blinking UILabel",
+  "description": "Add Blinking Function to UILabel",
+  "homepage": "https://github.com/RickwangF/BlinkingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "woshiwwy16@126.com": "woshiwwy16@126.com"
   },
   "source": {
-    "git": "https://github.com/woshiwwy16@126.com/BlinkingLabel.git",
+    "git": "https://github.com/RickwangF/BlinkingLabel.git",
     "tag": "0.1.0"
   },
+  "swift_version": "4.2",
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "BlinkingLabel/Classes/**/*"
 }
